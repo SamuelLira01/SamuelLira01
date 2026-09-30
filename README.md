@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Samuel!
 
-<!--
-**SamuelLira01/SamuelLira01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência de Dados na FATEC Cotia.
 
-Here are some ideas to get you started:
+Atualmente estou desenvolvendo conhecimentos em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Git e GitHub
+- Lógica de programação
+- Banco de dados
+
+Estou construindo projetos práticos para desenvolver minhas habilidades em programação e dados.
+
+## Projetos
+
+- [Calculadora de IMC](https://github.com/SamuelLira01/calculadora-imc-python)
+- [Calculadora While](https://github.com/SamuelLira01/Calculadora_while_python)
